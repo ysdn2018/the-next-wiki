@@ -14,7 +14,7 @@ For CSS we are using [**Styled-Components**](https://www.styled-components.com/)
 
 For our backend for submitting case studies/etc on the main site we are using [**Netlify CMS**](https://www.netlifycms.org/), which is essentially a markdown editor that will allow people to use the site. \(this part isn't set in stone yet, Netlify CMS is still in early development\)
 
-For collaborating on code we will be using [**Github**](https://github.com/), feel free to use the [desktop client](https://desktop.github.com/) as its pretty easy to use. You can learn more about github [here](https://www.codeschool.com/courses/try-git) and [here](https://guides.github.com/). 
+For collaborating on code we will be using [**Github**](https://github.com/), feel free to use the [desktop client](https://desktop.github.com/) as its pretty easy to use. You can learn more about github [here](https://www.codeschool.com/courses/try-git) and [here](https://guides.github.com/).
 
 ### styleguide
 
