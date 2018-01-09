@@ -16,10 +16,6 @@ For our backend for submitting case studies/etc on the main site we are using [*
 
 For collaborating on code we will be using [**Github**](https://github.com/), feel free to use the [desktop client](https://desktop.github.com/) as its pretty easy to use. You can learn more about github [here](https://www.codeschool.com/courses/try-git) and [here](https://guides.github.com/).
 
-### styleguide
-
-\*do this\*
-
 ### what you need to know
 
 Most of the setup and config will be ready to go, so really you just need to have a working knowledge of javascript & css, and a basic knowledge of how React and Styled Components work.
