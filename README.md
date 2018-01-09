@@ -26,15 +26,11 @@ Most of the setup and config will be ready to go, so really you just need to hav
 
 Link to guide.
 
-### To-Do
+### contributing
 
-boilerplate code
+Feel free to contribute to this documentation as its pretty early.
 
-guide
+### 
 
-base components
 
-code examples
-
-resource list
 
