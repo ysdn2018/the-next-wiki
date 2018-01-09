@@ -20,8 +20,6 @@ For collaborating on code we will be using [**Github**](https://github.com/), fe
 
 Most of the setup and config will be ready to go, so really you just need to have a working knowledge of javascript & css, and a basic knowledge of how React and Styled Components work.
 
-Link to guide.
-
 ### contributing
 
 Feel free to contribute to this documentation as its pretty early.
