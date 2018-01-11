@@ -12,6 +12,10 @@ Boilerplate that we can build off of for digital team projects. Basic understand
 
 We are following a pretty standard Gatsby setup. \*to-do: explain structure\*
 
+### Future
+
+Components and base styles are light/non-existant as of right now. Will be updated with official brand guidelines when those are availible. 
+
 ---
 
 ## styleguide
