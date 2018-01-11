@@ -1,14 +1,11 @@
 # To-Do
 
-boilerplate code
+* [x] boilerplate code
+* [ ] guide
+* [ ] base components
+* [ ] code examples
+* [x] resource list
+* [ ] styleguide
 
-guide
 
-base components
-
-code examples
-
-resource list
-
-styleguide
 
