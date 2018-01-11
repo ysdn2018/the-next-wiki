@@ -10,3 +10,11 @@ Boilerplate that we can build off of for digital team projects. Basic understand
 
 
 
+
+
+## styleguide
+
+We are following Airbnb's styleguide for Javascript & [React](https://github.com/airbnb/javascript/tree/master/react)
+
+
+
