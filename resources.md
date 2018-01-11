@@ -4,8 +4,15 @@
 
 ### React
 
-* [Documentation](https://reactjs.org/docs/hello-world.html)
+* [Documentation](https://reactjs.org/docs/hello-world.html) \(excellent\)
 * [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
+### Gatsby
+
+* [Documentation](https://www.gatsbyjs.org/docs/)
+* [Official Tutorial](https://www.gatsbyjs.org/tutorial/) \(excellent\)
+
+
 
 ### Styled Components
 
