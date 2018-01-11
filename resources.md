@@ -37,6 +37,7 @@
 
 * [Atom](https://atom.io/) \(Text Editor\)
   * [Language Babel Package](https://github.com/gandm/language-babel) \(for proper React Syntax Highligting\)
+  * [Atom IDE](https://ide.atom.io/) \(error reporting, auto completion & more\)
 * [Firefox](https://www.mozilla.org/en-US/firefox/) \(Great Dev-Tools\)
 * [Hyper](https://hyper.is/) \(A nicer terminal\)
 
