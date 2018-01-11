@@ -12,7 +12,11 @@
 * [Documentation](https://www.styled-components.com/docs)
 * [Best Practices](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
 
-### CSS-Grid
+### CSS Flexbox
+
+* [Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout)
+
+### CSS Grid
 
 * [Documentation ](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 * [Tutorial/Playground](https://mozilladevelopers.github.io/playground/css-grid)
