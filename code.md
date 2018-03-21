@@ -20,9 +20,9 @@ Most of the setup and config will be ready to go, so really you just need to hav
 
 ---
 
-## the-next-base boilerplate
+##  boilerplate
 
-[https://github.com/ysdn2018/the-next-base](https://github.com/ysdn2018/the-next-base)
+https://github.com/huntercaron/boiled
 
 Boilerplate that we can build off of for digital team projects. Basic understanding of how React and Gatsby work is recommended.
 
